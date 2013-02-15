@@ -1,0 +1,3 @@
+M	app/models/student.rb
+M	db/data/students.csv
+M	db/migrate/20121011144238_create_students.rb
